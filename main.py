@@ -35,4 +35,4 @@ async def stfu(ctx: commands.Context, member: discord.Member):
         await ctx.send(f"Couldn't contain its oil: {e}")
 
 #Don't forget to run your bot with your token
-bot.run('MTQ2MDgyNTYzMTQ5ODY5ODkxNA.GtO98h.57v_lk0oOV4qxE1WMO0_RSBhUzpSPQWK3cP5xU', log_handler=handler, log_level=logging.INFO)
+bot.run('placeholder', log_handler=handler, log_level=logging.INFO)
